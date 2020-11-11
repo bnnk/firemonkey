@@ -1,0 +1,6 @@
+Gdk-Message: 22:12:56.004: firefox-esr: Fatal IO error 104 (Connection reset by peer) on X server :0.
+
+Gdk-Message: 22:12:56.104: /usr/lib/firefox-esr/firefox-esr: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 22:12:56.107: /usr/lib/firefox-esr/firefox-esr: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
